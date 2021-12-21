@@ -23,6 +23,14 @@ textarea {
    background-color: white;
 }
 
+#txt-output {
+    font-size: xx-large;
+    color: red;
+}
+
+
+
+
 #talk{
    text-align: center;
    background-color: black;
@@ -41,6 +49,7 @@ textarea {
      font-size:x-large;
      text-align: center;
      color: red;
+     
  }   
 
 #header {
@@ -70,6 +79,4 @@ textarea {
    font-size:2rem;
     
 }
-
-    
 
