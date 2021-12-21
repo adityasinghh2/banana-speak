@@ -25,9 +25,10 @@ textarea {
 
 #talk{
    text-align: center;
-   background-color: yellow;
+   background-color: black;
    padding: 5rem;
    font-size: 2cm;
+   color: red;
 }
 
 #about {
@@ -39,15 +40,16 @@ textarea {
  #txt-about {
      font-size:x-large;
      text-align: center;
+     color: red;
  }   
 
 #header {
     
-    background-color: yellow;
+    background-color: black;
 
    background-size:10px;
    margin: auto;
-   color: black;
+   color:red;
    margin: auto;
    padding: 2rem 2rem;
    border-radius: 0.5rem;
@@ -55,16 +57,16 @@ textarea {
 }
 
 #footer {
-    background-color: yellow;
+    background-color:black;
     padding: 5rem;
 }
 
 #btn-translate {
-    background-color:red;
+    background-color:black;
     padding: 1rem 5rem;
     margin: 2%;
     display:-moz-box;
-   color: yellow;
+   color: red;
    font-size:2rem;
     
 }
